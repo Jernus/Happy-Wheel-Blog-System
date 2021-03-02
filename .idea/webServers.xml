@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c84e4593-b92d-40df-8c8c-be19e2775d9f" name="JerryServer" url="http://trex-sandwich.com">
+        <fileTransfer host="trex-sandwich.com" port="22" rootFolder="/jlin914" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e1caf241-53f0-4464-aeed-7d4bdbf238d9" name="GroupServer" url="http://trex-sandwich.com">
+        <fileTransfer host="trex-sandwich.com" port="22" rootFolder="/wakko" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

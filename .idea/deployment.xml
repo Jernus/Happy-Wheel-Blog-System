@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="JerryServer">
+    <serverData>
+      <paths name="GroupServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/out/artifacts/GroupDeployment" web="/wakko_GroupDeployment" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="JerryServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/out/artifacts/ThirdDeployment" web="/jlin914_ThirdDeployment" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
